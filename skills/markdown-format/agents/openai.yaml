@@ -1,0 +1,4 @@
+interface:
+  display_name: "Markdown Format"
+  short_description: "统一创建和格式化普通 Markdown 文档的固定排版风格"
+  default_prompt: "Use $markdown-format to format this Markdown document without changing its content."
