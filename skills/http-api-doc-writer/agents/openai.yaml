@@ -1,0 +1,4 @@
+interface:
+  display_name: "HTTP API 文档生成器"
+  short_description: "根据接口实现或契约生成完整的 HTTP API 文档"
+  default_prompt: "使用 $http-api-doc-writer，根据当前项目中的接口实现生成接口文档；先确认目标接口和输出路径，不得编造字段、错误码或密钥。"
