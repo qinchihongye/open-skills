@@ -1,0 +1,11 @@
+Skill 发布状态
+更新时间：2026-09-05
+
+已发布到 open-skills 仓库：
+- markdown-format
+- http-api-doc-writer
+
+未发布，仅个人使用：
+- course-term-notes
+  原始位置：~/.grok/skills/course-term-notes
+  Codex 与 Claude Code 通过软链接使用同一份内容。
